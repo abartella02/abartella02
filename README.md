@@ -1,10 +1,10 @@
 ### Hi, My name is Alex - Welcome to my GitHub Page
 
-- I'm currently a University Student
-- I'm currently learning C++
-- I'm looking for a software internship
-- My goal for this year is to learn JavaScript basics and to master Python
-- Fun fact: I like movies and basketball
+- 🏫 I'm currently a University Student
+- 👨‍💻 I'm currently learning C++
+- 💼 I'm looking for a software internship
+- 🎯 My goal for this year is to learn JavaScript basics and to master Python
+- 🎥 Fun fact: I like movies and basketball
 
 ### Connect with me:
 [<img align="left" alt="Alexander Bartella | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]

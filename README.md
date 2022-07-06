@@ -1,9 +1,9 @@
 ### Hi, My name is Alex - Welcome to my GitHub Page
 
 - 🏫 I'm currently a University Student
-- 👨‍💻 I'm currently learning C++
-- 💼 I'm looking for a software internship
-- 🎯 My goal for this year is to learn JavaScript basics and to master Python
+- 👨‍💻 I'm currently learning JavaScript
+- 💼 I'm looking for a software engineering internship
+- 🎯 My goal for this year is to start a variety of engineering projects
 - 🎥 Fun fact: I like movies and basketball
 
 ### Connect with me:

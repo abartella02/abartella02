@@ -1,9 +1,5 @@
 ### Hi, My name is Alex - Welcome to my GitHub Page
 
-- 🏫 I'm currently a University Student
-- 👨‍💻 I'm currently learning JavaScript
-- 🎥 Fun fact: I like basketball
-
 ### Connect with me:
 [<img align="left" alt="Alexander Bartella | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
